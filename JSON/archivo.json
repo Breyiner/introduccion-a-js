@@ -1,0 +1,19 @@
+[
+    {
+        "nombre" : "Breyner",
+        "apellido" : "Acosta",
+        "edad" : 17
+    },
+
+    {
+        "nombre" : "Manuel",
+        "apellido" : "Ardila",
+        "edad" : 19
+    },
+    
+    {
+        "nombre" : "Johan",
+        "apellido" : "Polo",
+        "edad" : 18
+    }
+]
